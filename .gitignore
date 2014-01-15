@@ -1,0 +1,9 @@
+ansible/*
+.vagrant
+provisioning/ansible_hosts.ini
+*id_rsa_octo_deploy
+*aws_beta_dev_key.pem
+*id_rsa
+*swp
+src
+.DS_Store
